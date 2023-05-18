@@ -1,4 +1,4 @@
-# Linux Training - Albuquerque Bernalillo County Library
+# Linux Training - Albuquerque Bernalillo County Library & LinkedIn Learning
 
 Having an account with the Albuquerque Bernalillo County Library allows you to access LinkedIn Learning courses for free. Follow the steps below to sign-up for an account and start accessing courses and learning paths.
 
