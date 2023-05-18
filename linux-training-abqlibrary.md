@@ -2,7 +2,7 @@
 
 Having an account with the Albuquerque Bernalillo County Library allows you to access Linkedin Learning courses for free. Follow the steps below to sign-up for an account and start accessing courses and learning paths.
 
-## Sign-up for a Library Card
+## Sign-up for a Library Card and Access Linkedin Learning
 
 1. To get a library card you will need to visit one of the [local branches](https://abqlibrary.org/hours-locations). To save yourself some time you can fill out the [application](https://abqlibrary.org/librarycards) before you go.
 2. After you have a library card you can use your account to access [Linkedin Learning](https://www.linkedin.com/learning-login/). Click the link below the sign-in form that says "Sign in with your library card."
