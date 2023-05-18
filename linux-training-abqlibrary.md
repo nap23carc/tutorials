@@ -4,7 +4,7 @@ Having an account with the Albuquerque Bernalillo County Library allows you to a
 
 ## Sign-up for a Library Card
 
-1. To get a library card you will need to visit one of the [local branches](https://abqlibrary.org/hours-locations). To save yourself some time you can fill out the [application](https://abqlibrary.org/librarycards) before your go.
+1. To get a library card you will need to visit one of the [local branches](https://abqlibrary.org/hours-locations). To save yourself some time you can fill out the [application](https://abqlibrary.org/librarycards) before you go.
 2. After you have your library card you can use your library account to access [Linkedin Learning](https://www.linkedin.com/learning-login/). Click the link below the sign-in form that says "Sign in with you library card."
 3. Complete the partial address in the textbox where it says *libraryID* by typing *cabq* and click the "Continue" button.
 4. Sign in with their library card number and pin.
